@@ -21,7 +21,7 @@
 ---  
 
 ### 1. FORK THIS REPO
-<a href='https://github.com/chhaseeb47/Hasi-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/RumanKhalil66/Power-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE
 <a href='https://replit.com/@MHMODS/HASI-MD-BOT-QR?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
@@ -88,23 +88,26 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 
 2. Now Deploy
     <br>
-<a href='https://replit.com/github/chhaseeb47/Hasi-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<a href='https://replit.com/github/RumanKhalil66/Power-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 ---
 
 ## `𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑`
 <div align="left">
+  <a href="[https://github.com/RumanKhalil66.png]"><img src="https://github.com/RumanKhalil66.png" width="150" height="200" alt="Ash"/></a>
   <a href="[https://github.com/chhaseeb47]"><img src="https://github.com/chhaseeb47.png" width="200" height="200" alt="Ash"/></a>
-<a href="[https://github.com/naveeddogar.png]"><img src="https://github.com/naveeddogar.png" width="150" height="200" alt="Ash"/></a>
+
  </div>
 <br>
 <h4 align="left">
 
-| [𝐂𝐇 𝐇𝐀𝐒𝐄𝐄𝐁](https://github.com/chhaseeb47) |
-| Owner, Developer, Bug Fixer, Maintainer, updates|
+| [ROMAN KHALIL ](https://github.com/RumanKhalil66) |
+| Owner, Developer|
 
-| [NAVEED BRO ](https://github.com/naveeddogar) |
-| CO.Devloper |
+| [𝐂𝐇 𝐇𝐀𝐒𝐄𝐄𝐁](https://github.com/chhaseeb47) |
+|Co.Developer, Bug Fixer, Maintainer, updates|
+
+
 
 
 
@@ -147,7 +150,7 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
 ---
 
 </p>
-<h1 align="center"> Thanks To MH MODS OFC YT
+<h1 align="center"> Thanks TO ROMAN KHALIL
 </h1>
 
  <br><br>
