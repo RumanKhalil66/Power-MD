@@ -20,46 +20,22 @@
 
 ---  
 
-</p>
-
-
-   <p align="left">
-  <a href="https://github.com/itxxwasi/wasi-tech/fork">
-    <img src="https://img.shields.io/github/forks/itxxwasi/wasi-tech?label=Fork&style=social">
-  <p align="left"> 
-  <a href="https://github.com/itxxwasi/wasi-tech/stargazers">
-    <img src="https://img.shields.io/github/stars/itxxwasi/wasi-tech?style=social">
-      
-  
- 
-
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
-<p align="center">
- <a href="https://chat.whatsapp.com/IcqWhTW0vgw4A4N1IPA03J" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-
-
-# DEPLOY SETUP
-
-
 ### 1. FORK THIS REPO
-<a href='https://github.com/itxxwasi/wasi-tech/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/chhaseeb47/Hasi-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE
-<a href='https://replit.com/@Itxxwasi/WASI-TECH-1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://replit.com/@MHMODS/HASI-MD-BOT-QR?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
+
+## `𝐌𝐨𝐧𝐠𝐨𝐃𝐁 𝐔𝐑𝐋.`    Your Bot Cannot run without this.
+
+```
+mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=majority
+```
 
 
 #### DEPLOY TO HEROKU 
 
-#### JUST COPY THIS TEMPLEAT LINK AND OPEN IT ON THAT BROWSER WHERE YOU HAVE YOUR HEROKU ACCOUNT
-```
-https://heroku.com/deploy?template=https://github.com/Itxxwasi/wasi-tech
-```
 1. If You don't have a account in Heroku. Create a account.
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
@@ -67,6 +43,41 @@ https://heroku.com/deploy?template=https://github.com/Itxxwasi/wasi-tech
 2. Now Deploy
     <br>
 <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+3. How To Deploy video Tutorial.
+     <br>
+          <a href='https://youtu.be/BX0vkAirhkY?si=ZoOT-Gsis-acsjGT' target="_blank"><img alt='Heroku Deploy Tutorial' src='https://img.shields.io/badge/-Heroku Deploy Tutorial-red?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+#### DEPLOY TO CODESPACE
+
+1. If You don't have a account in Codespace. Create a account.
+    <br>
+<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+2. Now Deploy
+    <br>
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+
+#### DEPLOY TO RAILWAY
+
+1. If You don't have a account in Railway. Create a account.
+    <br>
+<a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
+2. Now Deploy
+    <br>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+
+#### DEPLOY TO MONGENIUS
+
+1. If You don't have a account in Mongenius. Create a account.
+    <br>
+<a href='https://studio.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
+
+2. Now Deploy
+    <br>
+<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 
 
 #### DEPLOY TO REPLIT
@@ -77,29 +88,73 @@ https://heroku.com/deploy?template=https://github.com/Itxxwasi/wasi-tech
 
 2. Now Deploy
     <br>
-<a href='https://replit.com/github/itxxwasi/wasi-tech' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<a href='https://replit.com/github/chhaseeb47/Hasi-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 ---
-#### ERROR SECATION
-IF YOU FIND ERROR OF CONNECTING DATABASE SO DONT WORRY JUST CHANGE MANGO BATABASE LINK IF YOU DONT HAVE USE THIS
-```
-mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=majority
-```
-```
-mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority
-```
-```
-mongodb+srv://xIKRATOSx:xIKRATOSx@ikratosofc.g1ueru5.mongodb.net/?retryWrites=true&w=majority
-```
+
+## `𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑`
+<div align="left">
+  <a href="[https://github.com/chhaseeb47]"><img src="https://github.com/chhaseeb47.png" width="200" height="200" alt="Ash"/></a>
+<a href="[https://github.com/naveeddogar.png]"><img src="https://github.com/naveeddogar.png" width="150" height="200" alt="Ash"/></a>
+ </div>
+<br>
+<h4 align="left">
+
+| [𝐂𝐇 𝐇𝐀𝐒𝐄𝐄𝐁](https://github.com/chhaseeb47) |
+| Owner, Developer, Bug Fixer, Maintainer, updates|
+
+| [NAVEED BRO ](https://github.com/naveeddogar) |
+| CO.Devloper |
 
 
-<h2 align="center"> Star This Repo If You like WASI-TECH🌟
+
+  </br> 
+<h4 align="left">
+##𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :
+  
+***Tap On Logo To Subscribe MY YouTube Channel***
+</p>
+ <p align="left">
+  <a href="https://www.youtube.com/@mhmodsofc?sub_confirmation=1">
+    <img alt=Support height="70" src="https://telegra.ph/file/eb6347e2764939fbbd35d.png"> 
+  </p>
+    
+ ***Tap On Logo To Contat Me***
+ <p align="left">
+  <a href="mailto:HELP_haseebrashid707@gmail.com ">
+    <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
+   <a href="https://wa.me/923407472645?text=Hi%20Haseeb%20Sir...%20I%20need%20some%20help%20in%20Hasi-MD">
+    <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
+
+
+<p align="left">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/G4FBtLiaB2f84hkT87LKZ4" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Our Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+
+
+</br>
+
+
+<h2 align="center">  Reminder
 </h2>
+   
+- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
+- I am not responsible for banning your account.
+- Use at your own risk by keeping this warning in mind.
 
-#### Thanks To 
+---
 
-1: NAVEED DOGER 
+</p>
+<h1 align="center"> Thanks To MH MODS OFC YT
+</h1>
 
-3: SamPandy Bro
+ <br><br>
 
-#### NOTE: THIS BOT MODIFIED FROM KING-MD..REASON=STUDY PURPOSE
+
+
+
+
+
+
