@@ -1,18 +1,19 @@
+
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/IcqWhTW0vgw4A4N1IPA03J">
-    <img alt=Support height="350" src="https://telegra.ph/file/0e3ceca721a6e277dbb61.jpg"> 
+  <a href="https://chat.whatsapp.com/BII7OjHbetgGirKXRPBFdB">
+    <img alt=Support height="350" src="https://telegra.ph/file/7d29f056400d556c0182f.jpg"> 
     </p>
-<h1 align="center">    WASI-TECH-MULTI-DEVICE (BETA)
+<h1 align="center">    Power-MD-MULTI-DEVICE (BETA)
 </h1>
 <p align="center"> 
   
-<p align="center"> A Whatsapp Bot Create By WASI To Do Everything That Is Possible On WhatsApp
+<p align="center"> A Whatsapp Bot Create By RUMAN KHALIL To Do Everything That Is Possible On WhatsApp
  
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/itxxwasi"><img title="Author" src="https://img.shields.io/badge/WASI-MULTI_DEVICE-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RumanKhalil66"><img title="Author" src="https://img.shields.io/badge/POWER_MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 
