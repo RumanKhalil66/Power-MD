@@ -1,13 +1,13 @@
 {
-               "name": "Wasi-tech",
+               "name": "Power-MD",
                "version": "1.0.1",
-               "description": "Multi device whatsapp bot by wasi.",
+               "description": "Multi device whatsapp bot by power.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name wasi",
-                "stop": "pm2 stop wasi"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name power",
+                "stop": "pm2 stop power"
                 },
                "author": "SamPandey001",
               "dependencies": {
@@ -69,11 +69,11 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/itxxwasi/wasi-tech .git"
+                 "url": "git+https://github.com/RumanKhalil66/Power-MD .git"
                   },
                  "bugs": {
-                 "url": "https://github.com/itxxwasi/wasi-tech/issues"
+                 "url": "https://github.com/RumanKhalil66/Power-MD/issues"
                   },
-                 "homepage": "https://github.com/itxxwasi/wasi-tech#readme"
+                 "homepage": "https://github.com/RumanKhalil66/Power-MD#readme"
                   }
 
