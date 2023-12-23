@@ -1,14 +1,14 @@
 { 
-  "name": "WASI-TECH",
-  "description": "A Whatsapp md bot built By Naveed to make experience better",
-  "logo": "https://telegra.ph/file/0e3ceca721a6e277dbb61.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "wasi-tech", "wasi-md", "wasi","wasimdbot","theme bot","multi device","baileys"],
+  "name": "Power-MD",
+  "description": "A Whatsapp md bot built By RUMAN KHALIL to make experience better",
+  "logo": "https://telegra.ph/file/023e0bfcfa0cc9450e193.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Power-MD", "power-md", "power","powermdbot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "WASI-TECH"
+      "value": "Power-MD"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -29,7 +29,7 @@
     },
    "THUMB_IMAGE": {
     "description": "Put Your Image Url for bot its also for menu.",
-     "value": "https://telegra.ph/file/0e3ceca721a6e277dbb61.jpg"
+     "value": "https://telegra.ph/file/023e0bfcfa0cc9450e193.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -71,10 +71,10 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "923192173398"
+       "value": "923361850868"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to wasi-tech Github Repo U can find the Scanner Option"
+    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to Power-MD Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -83,7 +83,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority"
+    "value": "mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
     "description": "Don't Change . No Need To Change Only Avilable wasi-tech.",
@@ -104,7 +104,7 @@
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "WASI-TECH"
+    "value": "Power-MD"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
