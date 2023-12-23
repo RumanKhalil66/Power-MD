@@ -15,6 +15,11 @@
 <p align="center">
 <a href="https://github.com/RumanKhalil66"><img title="Author" src="https://img.shields.io/badge/POWER_MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
 <p/>
+  <p align="center">
+ <a href="https://chat.whatsapp.com/G4FBtLiaB2f84hkT87LKZ4" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 
 
@@ -124,14 +129,14 @@ mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=major
     
  ***Tap On Logo To Contat Me***
  <p align="left">
-  <a href="mailto:HELP_haseebrashid707@gmail.com ">
+  <a href="mailto:HELP_khalil738466@gmail.com ">
     <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
-   <a href="https://wa.me/923407472645?text=Hi%20Haseeb%20Sir...%20I%20need%20some%20help%20in%20Hasi-MD">
+   <a href="https://wa.me/9233618500868?text=Hi%20RUMAN%20Sir...%20I%20need%20some%20help%20in%20Hasi-MD">
     <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
 
 
 <p align="left">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/G4FBtLiaB2f84hkT87LKZ4" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/BII7OjHbetgGirKXRPBFdB" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Our Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
